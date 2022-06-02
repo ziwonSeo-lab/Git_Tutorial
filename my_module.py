@@ -10,5 +10,7 @@ def mul(a, b):
 def div(a,b):
     return a / b
 
+
+## 주석추가 
 def rem(a,b):
     return a % b
