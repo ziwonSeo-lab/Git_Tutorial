@@ -10,6 +10,6 @@ def mul(a, b):
 def div(a,b):
     return a / b
 
-# 추가 주석추가
+# 주석 변경
 def rem(a,b):
     return a % b
